@@ -1,1 +1,0 @@
-06 hdr image-based lighting in blender
