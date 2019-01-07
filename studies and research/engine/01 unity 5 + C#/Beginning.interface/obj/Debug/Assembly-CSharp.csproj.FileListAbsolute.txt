@@ -1,0 +1,2 @@
+G:\Github\Game.Dev\studies and research\engine\01 unity 5 + C#\Beginning.interface\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+G:\Github\Game.Dev\studies and research\engine\01 unity 5 + C#\Beginning.interface\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
